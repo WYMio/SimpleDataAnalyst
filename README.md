@@ -1,0 +1,2 @@
+# SimpleDataAnalyst
+读取csv格式数据，并根据用户需求进行简单的数据分析和图表绘制的Agent
